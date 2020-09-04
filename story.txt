@@ -1,2 +1,5 @@
 A story is very small at the beginning
 and you add more things as you go
+Sometimes things get going on a tangent
+and only some of the things get added back to the story
+
